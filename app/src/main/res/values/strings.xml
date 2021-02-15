@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">010_DB_Trivial</string>
+    <string name="btnCerrar">CERRAR</string>
+    <string name="btnsiguiente">SIGUIENTE  </string>
+    <string name="btnAnterior"> ANTERIOR  </string>
+    <string name="puntuacion">PUNTUACIÓN </string>
+    <string name="respuesta_OK">Has acertado</string>
+    <string name="respuesta_NOT_OK">La respuesta es <b>incorrecta </b>. Ver explicación</string>
+    <string name="texto_verdadero">VERDADERO</string>
+    <string name="texto_falso">FALSO</string>
+    <string name="btnMantenimiento">Mantenimiento</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
